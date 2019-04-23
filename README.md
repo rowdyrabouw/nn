@@ -4,4 +4,4 @@ Slides and extra links on the training VueJS at Nationale Nederlanden Rotterdam,
 
 ## links
 
--   https://github.com/PeterKassenaar/vue-fundamentals
+-   Repo with code examples: https://github.com/PeterKassenaar/vue-fundamentals
